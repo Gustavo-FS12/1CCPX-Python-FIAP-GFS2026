@@ -41,6 +41,3 @@ print(f'O salário bruto é: R$ {salar:.2f}')
 print(f'O total de acréscimos é de: R${acres:.2f}')
 print(f'O total de descontos é de: R$ {descfalt:.2f}')
 print(f'O salário final é de: R$ {salarfin:.2f}')
-
-
-
